@@ -63,4 +63,4 @@ These are the behaviours/features that the application implements for use by a u
 * Flask
 
 ## License
-This project is under:[[MIT]](https://github.com/kimutaimeshack/One_Minute_Pitches-Application/blob/master/LICENSE)
+This project is under:[[MIT]](https://github.com/kimutaimeshack/personal-blogging-site/blob/master/LICENSE)

@@ -14,7 +14,8 @@ This is a blogging website where I can create and share my opinions and other us
 </tr>
 </table>
 
-
+### Live Site
+View [live](/https://myblogapp02.herokuapp.com/)
 ## User Stories
 These are the behaviours/features that the application implements for use by a user.
 

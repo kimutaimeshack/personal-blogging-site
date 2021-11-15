@@ -12,13 +12,16 @@
 
 {% block content %}
 <div class="container-fluid">
-  <div class="border border-warning"> <div class="p-3 mb-2 bg-primary text-white">
+  <div class="border border-warning"> 
     <div>
     <h1 class="p-3 mb-2 bg-success text-white">Welcome to my Blog Website</h1>
+   </div><br><br><br>
    </div>
+   <br><br>
     <span class="subheading"><i class="fas fa-quote-left"></i> <em class="quote">{{quote.quote}}</em> <i
         class="fas fa-quote-right"></i></span>
-    <h2>{{quote.author}}</h2>
+    <h2>{{quote.author}}</h2><br><br>
+    <div class="p-3 mb-2 bg-primary text-white">
     <form id="subscribeForm" class="form-inline ml-2" action="{{url_for('main.subscribe')}}" method="POST">
       <h1 class="subscribe">Subscribe Here</h1>
       <div class="md-form form-group">

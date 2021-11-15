@@ -1,4 +1,4 @@
-# personal-blogging-si
+# personal-blogging-website
 
 
 ## Author
